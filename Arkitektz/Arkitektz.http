@@ -1,0 +1,6 @@
+@Arkitektz_HostAddress = http://localhost:5048
+
+GET {{Arkitektz_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

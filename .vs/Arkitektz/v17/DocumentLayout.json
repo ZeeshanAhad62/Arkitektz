@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Arkitektz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D552FEC-F966-45CC-BBEC-AB359F61AE04}|Arkitektz\\Arkitektz.csproj|d:\\arkitektz\\arkitektz\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2D552FEC-F966-45CC-BBEC-AB359F61AE04}|Arkitektz\\Arkitektz.csproj|solutionrelative:arkitektz\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D552FEC-F966-45CC-BBEC-AB359F61AE04}|Arkitektz\\Arkitektz.csproj|d:\\arkitektz\\arkitektz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D552FEC-F966-45CC-BBEC-AB359F61AE04}|Arkitektz\\Arkitektz.csproj|solutionrelative:arkitektz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D552FEC-F966-45CC-BBEC-AB359F61AE04}|Arkitektz\\Arkitektz.csproj|d:\\arkitektz\\arkitektz\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D552FEC-F966-45CC-BBEC-AB359F61AE04}|Arkitektz\\Arkitektz.csproj|solutionrelative:arkitektz\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D552FEC-F966-45CC-BBEC-AB359F61AE04}|Arkitektz\\Arkitektz.csproj|d:\\arkitektz\\arkitektz\\models\\arkitektzcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D552FEC-F966-45CC-BBEC-AB359F61AE04}|Arkitektz\\Arkitektz.csproj|solutionrelative:arkitektz\\models\\arkitektzcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D552FEC-F966-45CC-BBEC-AB359F61AE04}|Arkitektz\\Arkitektz.csproj|d:\\arkitektz\\arkitektz\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D552FEC-F966-45CC-BBEC-AB359F61AE04}|Arkitektz\\Arkitektz.csproj|solutionrelative:arkitektz\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D552FEC-F966-45CC-BBEC-AB359F61AE04}|Arkitektz\\Arkitektz.csproj|d:\\arkitektz\\arkitektz\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D552FEC-F966-45CC-BBEC-AB359F61AE04}|Arkitektz\\Arkitektz.csproj|solutionrelative:arkitektz\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D552FEC-F966-45CC-BBEC-AB359F61AE04}|Arkitektz\\Arkitektz.csproj|d:\\arkitektz\\arkitektz\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2D552FEC-F966-45CC-BBEC-AB359F61AE04}|Arkitektz\\Arkitektz.csproj|solutionrelative:arkitektz\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\Arkitektz\\Arkitektz\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Arkitektz\\Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\Arkitektz\\Arkitektz\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Arkitektz\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T12:50:00.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Arkitektz\\Arkitektz\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Arkitektz\\Models\\Product.cs",
+              "ToolTip": "D:\\Arkitektz\\Arkitektz\\Models\\Product.cs",
+              "RelativeToolTip": "Arkitektz\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T12:00:32.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArkitektzContext.cs",
+              "DocumentMoniker": "D:\\Arkitektz\\Arkitektz\\Models\\ArkitektzContext.cs",
+              "RelativeDocumentMoniker": "Arkitektz\\Models\\ArkitektzContext.cs",
+              "ToolTip": "D:\\Arkitektz\\Arkitektz\\Models\\ArkitektzContext.cs",
+              "RelativeToolTip": "Arkitektz\\Models\\ArkitektzContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T11:46:12.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Arkitektz\\Arkitektz\\appsettings.json",
+              "RelativeDocumentMoniker": "Arkitektz\\appsettings.json",
+              "ToolTip": "D:\\Arkitektz\\Arkitektz\\appsettings.json",
+              "RelativeToolTip": "Arkitektz\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-09T11:17:06.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Arkitektz\\Arkitektz\\Program.cs",
+              "RelativeDocumentMoniker": "Arkitektz\\Program.cs",
+              "ToolTip": "D:\\Arkitektz\\Arkitektz\\Program.cs",
+              "RelativeToolTip": "Arkitektz\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T10:15:40.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\Arkitektz\\Arkitektz\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Arkitektz\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\Arkitektz\\Arkitektz\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Arkitektz\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAvwFsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T13:03:11.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Arkitektz\\Arkitektz\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Arkitektz\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Arkitektz\\Arkitektz\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Arkitektz\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAA4AAAAAAAAAAABRwBoAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-08T21:05:54.258Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
